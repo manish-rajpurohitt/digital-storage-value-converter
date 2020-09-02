@@ -5,6 +5,10 @@ body {
   flex-direction: column;
   width: fit-content;
 }
+.dev-warning {
+  color: #d8000c;
+  background-color: #ffbaba;
+}
 h1 {
   align-items: center;
   justify-content: center;
